@@ -1,0 +1,4 @@
+.md-header__button.md-logo {
+    transform: scale(1.8); /* 放大 1.5 倍 */
+    transform-origin: left center; /* 从左侧居中位置缩放 */
+}
